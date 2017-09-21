@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/elasticsearch:v2.4.1-1
+FROM gcr.io/google_containers/elasticsearch:v2.4.1-2
 LABEL version="2.4.1-1" author="yaly"
